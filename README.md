@@ -51,4 +51,4 @@ Crear build React
 
 	npm run build
 
-Espero funcione todo a la perfección
+Espero funcione todo a la perfección.
