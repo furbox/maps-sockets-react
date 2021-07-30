@@ -2,7 +2,7 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { v4 } from 'uuid';
 import mapboxgl from 'mapbox-gl';
 import { Subject } from 'rxjs';
-mapboxgl.accessToken = 'Token Mapbox';
+mapboxgl.accessToken = 'TokenMapbox';
 
 export const useMapbox = (puntoInicial) => {
     const mapDiv = useRef();
